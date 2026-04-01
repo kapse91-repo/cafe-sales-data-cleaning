@@ -1,3 +1,18 @@
+# Cafe Sales Data Cleaning & Visualization
+
+**Name:** Aditya Kapse  
+
+This notebook shows how I cleaned a dirty cafe sales dataset and created visual insights.
+
+      ## 1. Load and Inspect Data
+      ## 2. Data Cleaning
+      ## 3. Export Cleaned Data and Summary
+      ## 4. Visualizations
+      ## 5. Conclusion
+        - Cleaned the raw cafe sales dataset (errors, missing values, duplicates, outliers).  
+        - Exported the final clean data and a summary table.  
+        - Created charts to understand sales patterns.
+
 # cafe-sales-data-cleaning
 Data Cleaning &amp; Visualization project on cafe sales dataset using Python (Pandas, Seaborn, Matplotlib).
 
