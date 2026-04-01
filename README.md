@@ -3,7 +3,6 @@
 **Name:** Aditya Kapse  
 
 This notebook shows how I cleaned a dirty cafe sales dataset and created visual insights.
-
       ## 1. Load and Inspect Data
       ## 2. Data Cleaning
       ## 3. Export Cleaned Data and Summary
